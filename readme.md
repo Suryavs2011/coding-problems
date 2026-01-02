@@ -10,7 +10,7 @@ this repo started at 01/02/2026.
 
 this repo updated at 01/02/2026
 
-total problems available: 1
+total problems available: 3
 
 coding problems categorized by three categories
 
@@ -32,7 +32,7 @@ java script
 
 
 
-easy problems: 1
+easy problems: 3
 
 medium problems: 0
 
@@ -42,15 +42,13 @@ hard problems: 0
 
 kotlin problems: 1
 
-python problems: 0
+python problems: 1
 
-java script problems: 0
+java script problems: 1
 
 
 
-this file regularly updated at 1 date of each month
+this readme file regularly updated at 1 date of each month
 
 but repository regularly updated time to time with new problems
-
-
 
