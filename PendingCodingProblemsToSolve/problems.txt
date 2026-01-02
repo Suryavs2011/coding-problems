@@ -1,0 +1,1 @@
+1. Create a program that takes a list of integers and rearranges it so that all prime numbers appear before non-prime numbers, while maintaining the relative order of primes and non-primes.
